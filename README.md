@@ -10,9 +10,9 @@ User must install and require: dotenv, express, mysql2, and sequilize.
 
 ## Usage
 
-To start, type in node server.js into terminal. Type in the given routes in Insomnia to interact with the database. Users can get, post, update and delete products, categories, and tags.
+To start, type in npm start seed into terminal. Type in the given routes in Insomnia to interact with the database. Users can get, post, update and delete products, categories, and tags.
 
-[Link to video showing app functionality](https://drive.google.com/file/d/1Fz9dqaype35FNJLC7A8aOQuWARKMznBy/view?usp=sharing)
+[Link to video showing app functionality](https://drive.google.com/file/d/1T_jCWMZ6o0LpZGzdZQPthDcxVcP8eC3N/view)
 
 ## Credits
 
